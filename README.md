@@ -4,7 +4,7 @@ PFN2019年夏インターンのコーディング課題の提出例です。<br>
 https://github.com/pfnet/intern-coding-tasks/blob/master/2019/machine_learning/README-ja.pdf <br>
 
 ## ソースコード<br>
-src/GNN_problem1-4.ipynb
+`src/GNN_problem1-4.ipynb`
 
 ## 実行環境<br>
 Jupyter Notebook (Python3.6) 環境で実装しました。<br>
