@@ -1,0 +1,2 @@
+# PFN2019-Internship-coding_test
+PFN2019年夏インターンのコーディング課題の提出例です
